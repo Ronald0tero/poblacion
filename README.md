@@ -60,6 +60,11 @@ Asegúrate de tener las siguientes bibliotecas de R instaladas:
 
 Puedes instalar estas bibliotecas usando el comando `install.packages()` en R.
 
+## Imagenes
+https://raw.githubusercontent.com/Ronald0tero/poblacion/master/assets/imagenes_app/img-inicio_app.png
+
+https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png
+
 ## Contribuciones
 
 Las contribuciones a este proyecto son bienvenidas. Si deseas contribuir, sigue estos pasos:
