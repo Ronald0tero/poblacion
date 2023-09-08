@@ -63,7 +63,7 @@ Puedes instalar estas bibliotecas usando el comando `install.packages()` en R.
 ## Imagenes
 https://raw.githubusercontent.com/Ronald0tero/poblacion/master/assets/imagenes_app/img-inicio_app.png
 
-[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://github.com/Ronald0tero/poblacion/blob/main/Imagenes_app/img-Area_paises_mundial.png)
+[[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png]][[https://github.com/Ronald0tero/poblacion/blob/main/Imagenes_app/img-inicio_app.png]][(https://github.com/Ronald0tero/poblacion/blob/main/Imagenes_app/img-Area_paises_mundial.png)]
 
 ## Contribuciones
 
