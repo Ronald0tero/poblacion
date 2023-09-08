@@ -61,7 +61,7 @@ Asegúrate de tener las siguientes bibliotecas de R instaladas:
 Puedes instalar estas bibliotecas usando el comando `install.packages()` en R.
 
 ## Imagenes
-![inicio_app](./imagenes_app/img-inicio_app.png)
+[![img-inicio-app.png](https://i.postimg.cc/cJb11Zcz/img-inicio-app.png)](https://postimg.cc/qt2HQPSc)
 
 ## Contribuciones
 
