@@ -4,7 +4,7 @@ library(shinythemes)
 library(ggthemes)
 library(plotly)
 library(shinycssloaders)
-#library(janitor)
+library(janitor)
 library(plotly)
 
 
