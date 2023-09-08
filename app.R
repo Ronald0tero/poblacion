@@ -4,7 +4,7 @@ library(shinythemes)
 library(ggthemes)
 library(plotly)
 library(shinycssloaders)
-library(janitor)
+#library(janitor)
 library(plotly)
 
 
@@ -60,7 +60,7 @@ server <- function(input, output) {
     poblaciones2 <- filter(poblaciones2, nombre_pais %in% seleccion_paisc) 
     plot_ly(poblaciones2, x=~aC1o, y=~poblacion, color =~nombre_pais ,type = "scatter", mode = "lines") %>% layout(
       title = "Poblacion Mundial",
-      xaxis = list(title = "Años", rangeslider = list(type = "date")),
+      xaxis = list(title = "AC1os", rangeslider = list(type = "date")),
       yaxis = list(title = "Poblacion(por millon)"))
     
     
