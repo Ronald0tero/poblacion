@@ -62,6 +62,8 @@ Puedes instalar estas bibliotecas usando el comando `install.packages()` en R.
 
 ## Imagenes
 [![img-inicio-app.png](https://i.postimg.cc/cJb11Zcz/img-inicio-app.png)](https://postimg.cc/qt2HQPSc)
+[![img-Area-paises-mundial.png](https://i.postimg.cc/PJMBxQjq/img-Area-paises-mundial.png)](https://postimg.cc/m1tdpMhx)
+[![img-poblacion-mundial.png](https://i.postimg.cc/85RYKmsb/img-poblacion-mundial.png)](https://postimg.cc/PpqKNZWL)
 
 ## Contribuciones
 
